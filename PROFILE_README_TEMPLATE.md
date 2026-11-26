@@ -1,30 +1,38 @@
-# Hi, I'm Prathmesh 👋
+# Hi, I'm Prathmesh Babasaheb Bhagwat 👋
 
-### Aspiring Data Analyst | Business Intelligence Enthusiast
+### Aspiring Data Analyst | Power BI • Excel • SQL • Python • Tableau
 
-I enjoy exploring datasets, finding patterns, and presenting insights that help answer business questions. I'm building my analytics portfolio through hands-on projects.
+I'm an aspiring Data Analyst learning and working with data analysis, business intelligence, and visualization tools. I enjoy exploring datasets and presenting useful insights.
 
-## 🔧 Tools & Skills
+## 🛠️ Skills & Tools
 
-- **Visualization & BI:** Tableau
-- **Analytics:** Exploratory analysis, KPI tracking, data validation, trend analysis
-- **Currently building:** SQL, Excel, Python analytics projects
+- **Power BI**
+- **Microsoft Excel**
+- **SQL**
+- **Python**
+- **Tableau**
 
-> Keep this skills list updated with tools you can confidently use and explain.
+## 🎓 Education
+
+**Dr. G. Y. Pathrikar College**  
+MGM University, Chhatrapati Sambhajinagar  
+2023–2026
 
 ## 📊 Featured Project
 
 ### Superstore Sales Analysis — Tableau
-Analyzing sales across regions, customer segments, quarters, and product rankings through Tableau views and calculated fields.
 
-- [Project repository](https://github.com/prathmeshbhagwat108-dev/superstore-sales-analysis-tableau)
-- Add your Tableau Public dashboard link when published.
-- Add screenshots and verified insights to the project README.
+Tableau project exploring Superstore sales across regions, customer segments, time periods, and product rankings.
 
-## 🎯 Career Goal
+- Sales trends and quarterly analysis
+- Regional and customer-segment performance
+- Product rankings
+- Calculated fields and data validation
 
-Seeking entry-level Data Analyst opportunities where I can use data to answer business questions and support decisions.
+🔗 [View my Tableau project](https://github.com/prathmeshbhagwat108-dev/superstore-sales-analysis-tableau)
 
-## 🔗 Links
+## 📫 Contact
 
-- [GitHub](https://github.com/prathmeshbhagwat108-dev)
+- **Email:** [prathmeshbhagwat108@gmail.com](mailto:prathmeshbhagwat108@gmail.com)
+- **LinkedIn:** [Prathmesh Bhagwat](https://www.linkedin.com/in/prathmesh-bhagwat-a95882326/)
+- **GitHub:** [prathmeshbhagwat108-dev](https://github.com/prathmeshbhagwat108-dev)
